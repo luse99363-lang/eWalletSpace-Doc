@@ -1,30 +1,123 @@
----
-description: >-
-  Everything you need to build, deploy, and manage your projects on the
-  platform.
-icon: hand-wave
----
+# What Is eWalletSpace
 
-# Welcome
+eWalletSpace is a platform for finding and analyzing on-chain traders across the Ethereum, Base, and BNB Smart Chain networks.
 
-Welcome to the platform. These docs cover everything from your first project to advanced workflows — pick a starting point below or ask the Assistant to jump straight to what you need.
+Unlike traditional analytics services, eWalletSpace does not try to show users as much data as possible. Its goal is to help users quickly find wallets that are truly worth watching.
 
-<button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question…</button>
+Every day, thousands of new tokens and millions of transactions appear on the blockchain. Among them are thousands of highly profitable wallets, wallets with lucky trades, automated bots, and fraudulent addresses. Finding a trader who consistently discovers strong projects before everyone else among all of them is practically impossible manually.
 
-<button type="button" class="button secondary" data-action="ask" data-query="How do I deploy my first project" data-icon="rocket-launch">Deploy your first project</button><button type="button" class="button secondary" data-action="ask" data-query="How do I set up a custom domain" data-icon="globe">Set up a custom domain</button><button type="button" class="button secondary" data-action="ask" data-query="How do I invite my team" data-icon="user-group">Invite your team</button>
+This is exactly the problem that eWalletSpace solves.
 
 ***
 
-{% hint style="success" icon="sparkles" %}
-**New: scheduled deploys and team-level audit logs.** Schedule deploys for any future date and review every action taken in your workspace.
+### What the Platform Does
 
-<a href="https://gitbook.com/docs/changelog" class="button secondary">See what's new</a>
-{% endhint %}
+The platform continuously analyzes every new token and every trading transaction across the supported networks.
 
-## Where to start
+For each wallet, dozens of metrics are automatically calculated, including:
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><h4>Getting started</h4></td><td>Set up your account and ship your first project in minutes.</td><td><a href="https://app.gitbook.com/s/jsWh5y56H9wZgH85WY0z/getting-started">Getting Started</a></td></tr><tr><td><h4><i class="fa-book" style="color:$primary;">:book:</i></h4></td><td><h4>Core concepts</h4></td><td>Understand workspaces, projects, and how permissions work.</td><td><a href="https://app.gitbook.com/s/jsWh5y56H9wZgH85WY0z/core-concepts">Core concepts</a></td></tr><tr><td><h4><i class="fa-graduation-cap" style="color:$primary;">:graduation-cap:</i></h4></td><td><h4>Guides</h4></td><td>Walkthroughs for common tasks like custom domains and automations.</td><td><a href="https://app.gitbook.com/s/jsWh5y56H9wZgH85WY0z/guides">Guides</a></td></tr><tr><td><h4><i class="fa-book-open" style="color:$primary;">:book-open:</i></h4></td><td><h4>Reference</h4></td><td>Detailed configuration options, limits, and terminology.</td><td><a href="https://app.gitbook.com/s/jsWh5y56H9wZgH85WY0z/reference">Reference</a></td></tr></tbody></table>
+* ROI
+* PnL
+* Win Rate
+* Trading Volume
+* Number of Trades
+* Holding Time
+* The proprietary Potential metric
+* And other metrics
 
-## Popular tasks
+The collected data is combined into a single trader profile that can be reviewed in just a few minutes.
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>For builders</h4></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td><td><a href="getting-started/your-first-project.md">your-first-project.md</a></td><td><a href="guides/custom-domains.md">custom-domains.md</a></td></tr><tr><td><h4>For admins</h4></td><td><a href="core-concepts/permissions.md">permissions.md</a></td><td><a href="reference/configuration.md">configuration.md</a></td><td><a href="core-concepts/workspaces-and-projects.md">workspaces-and-projects.md</a></td></tr><tr><td><h4>For developers</h4></td><td><a href="guides/automations.md">automations.md</a></td><td><a href="reference/glossary.md">glossary.md</a></td><td><a href="reference/configuration.md">configuration.md</a></td></tr></tbody></table>
+<figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### Who eWalletSpace Is Built For
+
+The platform is designed for users who regularly search for new on-chain trading opportunities.
+
+Primarily, these include:
+
+* Memecoin traders
+* DeFi traders
+* Users of Telegram trading bots
+* Copy traders
+* Anyone who searches for promising wallets on a daily basis
+
+If your strategy is based on finding strong traders rather than simply analyzing charts, eWalletSpace will become a practical tool for your workflow.
+
+***
+
+### What Problem We Solve
+
+Most existing services help analyze a wallet or a specific token that has already been found.
+
+However, they provide very little help in answering the more important question:
+
+"How do you find a strong trader among millions of other wallets?"
+
+That is why the search often turns into hours of manual work.
+
+* Open the list of buyers.
+* Check dozens of wallets.
+* Review each wallet's trading history.
+* Open token charts.
+* Understand which trades were successful because of skill and which were simply luck.
+* Repeat the entire process again.
+
+Even an experienced trader may spend several hours analyzing a single interesting token.
+
+### The eWalletSpace Approach
+
+We believe users should not have to perform all of this work themselves.
+
+That is why the platform automatically analyzes every wallet's trading history, calculates key metrics, and provides convenient search, sorting, and filtering tools.
+
+Instead of analyzing thousands of addresses, the user receives a ready-made selection of traders that can be reviewed in just a few minutes.
+
+<figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+
+This does not replace your own analysis, but it allows you to focus on the traders that are truly worth your attention.
+
+### The Main Idea Behind the Product
+
+Most analytics platforms help users study data.
+
+eWalletSpace helps users discover opportunities.
+
+The difference may seem small, but it defines the philosophy of the platform.
+
+We do not strive to display as much information as possible.
+
+We strive to shorten the path from discovering an interesting token to finding a trader who is truly worth watching.
+
+### What Makes eWalletSpace Different
+
+When developing the platform, we focused on four principles.
+
+<mark style="color:$primary;">**Search Speed**</mark>\
+Finding promising wallets should take minutes, not hours.
+
+<mark style="color:$primary;">**Simplicity**</mark>\
+Most decisions are made using filters, sorting options, and ready-made metrics, without the need to manually analyze hundreds of wallet addresses.
+
+<mark style="color:$primary;">**Proprietary Metrics**</mark>\
+Some metrics, such as Potential, were developed specifically to evaluate the quality of traders' entries and are not available in most analytics services.
+
+<mark style="color:$primary;">**Real Blockchain Data**</mark>\
+All calculations are based on blockchain data. The platform analyzes every new trade and continuously updates its statistics as new blocks are added.
+
+### Important to Understand
+
+eWalletSpace does not provide trading signals and does not decide which wallets users should copy.
+
+The platform provides analytical tools, while the final decision is always made by the user.
+
+We intentionally follow this approach because even the strongest traders can make mistakes, and there is no universal algorithm for finding the "perfect" wallet.
+
+### What's Next
+
+Now that you understand the problem eWalletSpace solves, you can move on to the next chapter.
+
+There, we'll explain why existing tools are not enough and how the eWalletSpace approach differs from familiar platforms such as GMGN, DexScreener, and Arkham.
+
+<br>
