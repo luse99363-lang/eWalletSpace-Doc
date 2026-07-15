@@ -1,123 +1,141 @@
-# What Is eWalletSpace
+# Что такое eWalletSpace
 
-eWalletSpace is a platform for finding and analyzing on-chain traders across the Ethereum, Base, and BNB Smart Chain networks.
+**eWalletSpace** - это платформа для поиска и анализа ончейн-трейдеров в сетях **Ethereum, Base и BNB Smart Chain**.
 
-Unlike traditional analytics services, eWalletSpace does not try to show users as much data as possible. Its goal is to help users quickly find wallets that are truly worth watching.
+В отличие от классических аналитических сервисов, eWalletSpace не пытается показать пользователю как можно больше данных. Его задача - помочь быстро найти кошельки, за которыми действительно стоит наблюдать.
 
-Every day, thousands of new tokens and millions of transactions appear on the blockchain. Among them are thousands of highly profitable wallets, wallets with lucky trades, automated bots, and fraudulent addresses. Finding a trader who consistently discovers strong projects before everyone else among all of them is practically impossible manually.
+Каждый день в блокчейне появляются тысячи новых токенов и миллионы транзакций. Среди них - тысячи кошельков с высокой доходностью, случайными удачными сделками, автоматическими ботами и мошенническими адресами. Найти среди них трейдера, который действительно умеет раньше других находить сильные проекты, чтобы копировать его сделки, вручную практически невозможно.
 
-This is exactly the problem that eWalletSpace solves.
+Именно эту задачу решает eWalletSpace.
 
 ***
 
-### What the Platform Does
+### Что делает сервис
 
-The platform continuously analyzes every new token and every trading transaction across the supported networks.
+Платформа непрерывно анализирует все новые токены и все торговые транзакции в поддерживаемых сетях.
 
-For each wallet, dozens of metrics are automatically calculated, including:
+Для каждого кошелька автоматически рассчитываются десятки показателей, включая:
 
-* ROI
-* PnL
-* Win Rate
-* Trading Volume
-* Number of Trades
-* Holding Time
-* The proprietary Potential metric
-* And other metrics
+* ROI;&#x20;
+* PnL;&#x20;
+* Win Rate;&#x20;
+* объем торговли;&#x20;
+* количество сделок;&#x20;
+* время удержания позиций;&#x20;
+* собственную метрику Потенциал;&#x20;
+* и другие показатели.&#x20;
 
-The collected data is combined into a single trader profile that can be reviewed in just a few minutes.
+Полученные данные объединяются в единую карточку трейдера, которую можно изучить за несколько минут.
 
 <figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### Who eWalletSpace Is Built For
+### Для кого создан eWalletSpace
 
-The platform is designed for users who regularly search for new on-chain trading opportunities.
+Сервис ориентирован на пользователей, которые регулярно ищут новые торговые возможности в ончейне.
 
-Primarily, these include:
+В первую очередь это:
 
-* Memecoin traders
-* DeFi traders
-* Users of Telegram trading bots
-* Copy traders
-* Anyone who searches for promising wallets on a daily basis
+* трейдеры мемкоинов;&#x20;
+* DeFi-трейдеры;&#x20;
+* пользователи торговых Telegram-ботов;&#x20;
+* копитрейдеры;
+* все, кто ежедневно ищет новые перспективные кошельки.&#x20;
 
-If your strategy is based on finding strong traders rather than simply analyzing charts, eWalletSpace will become a practical tool for your workflow.
+Если ваша стратегия связана с поиском сильных трейдеров, а не только с анализом графиков, eWalletSpace станет рабочим инструментом.
 
 ***
 
-### What Problem We Solve
+### Какую проблему мы решаем
 
-Most existing services help analyze a wallet or a specific token that has already been found.
+Большинство существующих сервисов помогают анализировать уже найденный кошелек или конкретный токен. Но они практически не помогают ответить на более важный вопрос:
 
-However, they provide very little help in answering the more important question:
+**«Как найти сильного трейдера среди миллионов других кошельков?»**
 
-"How do you find a strong trader among millions of other wallets?"
+Именно поэтому поиск часто превращается в многочасовую ручную работу.
 
-That is why the search often turns into hours of manual work.
+Открыть список покупателей.
 
-* Open the list of buyers.
-* Check dozens of wallets.
-* Review each wallet's trading history.
-* Open token charts.
-* Understand which trades were successful because of skill and which were simply luck.
-* Repeat the entire process again.
+Проверить десятки кошельков.
 
-Even an experienced trader may spend several hours analyzing a single interesting token.
+Посмотреть историю торговли каждого.
 
-### The eWalletSpace Approach
+Открыть графики токенов.
 
-We believe users should not have to perform all of this work themselves.
+Понять, где были удачные сделки, а где обычное везение.
 
-That is why the platform automatically analyzes every wallet's trading history, calculates key metrics, and provides convenient search, sorting, and filtering tools.
+Повторить всё заново.
 
-Instead of analyzing thousands of addresses, the user receives a ready-made selection of traders that can be reviewed in just a few minutes.
+Даже опытный трейдер может потратить несколько часов на анализ одного интересного токена.
+
+***
+
+### Подход eWalletSpace
+
+Мы считаем, что пользователь не должен самостоятельно выполнять всю эту работу.
+
+Поэтому сервис автоматически анализирует торговую историю каждого кошелька, рассчитывает ключевые метрики и предоставляет удобные инструменты поиска, сортировки и фильтрации.
+
+Вместо анализа тысяч адресов пользователь получает готовую выборку трейдеров, которых можно изучить за несколько минут.
 
 <figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
-This does not replace your own analysis, but it allows you to focus on the traders that are truly worth your attention.
+Это не заменяет собственный анализ, но позволяет сосредоточиться на действительно интересных кандидатах.
 
-### The Main Idea Behind the Product
+***
 
-Most analytics platforms help users study data.
+### Главная идея продукта
 
-eWalletSpace helps users discover opportunities.
+Большинство аналитических платформ помогают изучать данные.
 
-The difference may seem small, but it defines the philosophy of the platform.
+**eWalletSpace помогает находить возможности.**
 
-We do not strive to display as much information as possible.
+Разница кажется небольшой, но именно она определяет философию сервиса.
 
-We strive to shorten the path from discovering an interesting token to finding a trader who is truly worth watching.
+Мы не стремимся показать как можно больше информации.
 
-### What Makes eWalletSpace Different
+Мы стремимся сократить путь от появления интересного токена до обнаружения трейдера, за которым действительно стоит наблюдать.
 
-When developing the platform, we focused on four principles.
+***
 
-<mark style="color:$primary;">**Search Speed**</mark>\
-Finding promising wallets should take minutes, not hours.
+### **Что отличает eWalletSpace**
 
-<mark style="color:$primary;">**Simplicity**</mark>\
-Most decisions are made using filters, sorting options, and ready-made metrics, without the need to manually analyze hundreds of wallet addresses.
+При разработке сервиса мы сделали акцент на четырех принципах.
 
-<mark style="color:$primary;">**Proprietary Metrics**</mark>\
-Some metrics, such as Potential, were developed specifically to evaluate the quality of traders' entries and are not available in most analytics services.
+#### Скорость поиска
 
-<mark style="color:$primary;">**Real Blockchain Data**</mark>\
-All calculations are based on blockchain data. The platform analyzes every new trade and continuously updates its statistics as new blocks are added.
+Поиск перспективных кошельков должен занимать минуты, а не часы.
 
-### Important to Understand
+#### Простота
 
-eWalletSpace does not provide trading signals and does not decide which wallets users should copy.
+Большинство решений принимается с помощью фильтров, сортировок и готовых метрик, без необходимости вручную анализировать сотни адресов.
 
-The platform provides analytical tools, while the final decision is always made by the user.
+#### Собственные метрики
 
-We intentionally follow this approach because even the strongest traders can make mistakes, and there is no universal algorithm for finding the "perfect" wallet.
+Некоторые показатели, например Потенциал, разработаны специально для оценки качества входов трейдеров и отсутствуют в большинстве аналитических сервисов.
 
-### What's Next
+#### Работа с реальными данными
 
-Now that you understand the problem eWalletSpace solves, you can move on to the next chapter.
+Все расчеты выполняются на основе данных блокчейна. Сервис анализирует каждую новую сделку и постоянно обновляет статистику по мере появления новых блоков.
 
-There, we'll explain why existing tools are not enough and how the eWalletSpace approach differs from familiar platforms such as GMGN, DexScreener, and Arkham.
+***
 
+### Что важно понимать
+
+eWalletSpace не дает торговых сигналов и не выбирает за пользователя, какие кошельки стоит копировать.
+
+Сервис предоставляет инструменты для анализа, а окончательное решение всегда принимает сам пользователь.
+
+Мы сознательно придерживаемся этого подхода, потому что даже самые сильные трейдеры могут ошибаться, а универсального алгоритма поиска «идеального» кошелька не существует.
+
+***
+
+### Что дальше
+
+Теперь, когда вы понимаете, какую задачу решает eWalletSpace, можно переходить к следующей главе.
+
+В ней мы разберем, **почему существующих инструментов недостаточно** и чем подход eWalletSpace отличается от привычных сервисов вроде GMGN, DexScreener или Arkham.
+
+\
 <br>
